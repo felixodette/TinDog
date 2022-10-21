@@ -68,7 +68,11 @@ h3 {
   color: #8f8f8f;
 }
 
-#features > i {
-  font-size: 4rem;
-  color: goldenrod;
+.feature-icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.feature-icon:hover {
+  color: #ff4c68;
 }
