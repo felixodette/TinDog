@@ -86,13 +86,15 @@ h3 {
 /*Testimonial Section*/
 
 #testimonials {
-  padding: 7% 15%;
   font-family: Montserrat-Bold;
   text-align: center;
   background-color: #ff4c68;
   color: white;
 }
 
+.carousel-item {
+  padding: 7% 15%;
+}
 
 .testimonial-image {
   width: 20%;
