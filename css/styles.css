@@ -113,3 +113,38 @@ h3 {
   width: 15%;
   margin: 20px 20px 50px;
 }
+
+/*Pricing*/
+
+.btn-free {
+  border-color: #ef8172;
+  color: #ef8172;
+}
+
+.btn-free:hover {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.btn-paid {
+  background-color: #ef8172;
+  color: white;
+}
+
+.btn-paid:hover {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.premium-heading {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.premium-card{
+  border-color: #ff4c68;
+}
+
+.pricing-header {
+  text-align: center;
+}
