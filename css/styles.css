@@ -164,13 +164,21 @@ h3 {
   text-align: center;
 }
 
+/*Call to Action*/
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 5% 0;
+}
+
 /*Media Queries*/
 
 @media (max-width: 1028px) {
   #title {
     text-align: center;
   }
-  
+
   .iphone {
     width: 50%;
     position: static;
