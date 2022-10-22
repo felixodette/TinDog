@@ -169,7 +169,29 @@ h3 {
 #cta {
   background-color: #ff4c68;
   text-align: center;
-  padding: 5% 0;
+  padding: 5% 15%;
+}
+
+.cta-h3 {
+  font-family: Montserrat-Black;
+  color: white;
+  font-size: 50px;
+  line-height: 1.5;
+}
+
+/*Footer Section*/
+
+footer {
+  background-color: #fff;
+  color: slategrey;
+  text-align: center;
+  padding: 5% 15% 1%;
+}
+
+.social {
+  font-size: 1.5rem;
+  margin: 0 0.5rem;
+  cursor: pointer;
 }
 
 /*Media Queries*/
