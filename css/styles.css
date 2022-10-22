@@ -20,7 +20,7 @@ h2 {
 }
 
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 15%;
 }
 
 /*Navigation Bar*/
@@ -51,14 +51,19 @@ h2 {
 
 /*Title Image*/
 .iphone {
-  width: 60%;
+  width: 20%;
   transform: rotate(25deg);
+  position: absolute;
+  right: 23%;
 }
 
 /*Feature Section*/
 #features {
   padding: 7% 15%;
   font-family: Montserrat-Bold;
+  background-color: white;
+  position: relative;
+  /*z-index: 1;*/
 }
 
 h3 {
@@ -115,6 +120,16 @@ h3 {
 }
 
 /*Pricing*/
+
+#pricing {
+  padding: 5%;
+  line-height: 1.5;
+  font-family: Montserrat-Bold;
+}
+
+#pricing-header {
+  padding: 10% 0;
+}
 
 .btn-free {
   border-color: #ef8172;
